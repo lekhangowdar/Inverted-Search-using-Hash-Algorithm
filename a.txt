@@ -1,0 +1,12 @@
+#7#
+hii:1:file1.txt:1
+how:1:file1.txt:1
+harshaa:1:file2.txt:1
+hrshala:1:file2.txt:1
+#11#
+lekhan:1:file1.txt:1
+#21#
+veereshh.:1:file2.txt:1
+#26#
+,:1:file2.txt:1
+!!:1:file2.txt:1
